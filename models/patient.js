@@ -1,4 +1,4 @@
-// models/patient.js
+
 const { DataTypes } = require('sequelize');
 const sequelize = require('../config');
 const Psychiatrist = require('./psychiatrist');
